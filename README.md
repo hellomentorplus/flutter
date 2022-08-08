@@ -23,10 +23,11 @@ Some knowledge you need to know before joining this course
 The outcome of this course is that each mentee is able to create a sample Weather App with UI and API calls
 
 ### UI
-![Batch 10 - Flutter - Exercise](https://user-images.githubusercontent.com/110004234/183241778-70be6cee-8028-4a40-b1c7-f4c11a64472e.png)
+![Batch 10 - Flutter - Exercise](https://user-images.githubusercontent.com/110004234/183320414-2730e81b-23f7-4e68-a626-fd17489136f5.png)
 
-### API Key
-Share privately during Orientation
+### API 
+- use https://openweathermap.org/forecast5
+- Keys will be shared privately during Orientation
 
 ## Course syllabus
 #### Orientation - check prerequisites knowledge
