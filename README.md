@@ -11,18 +11,22 @@ Some knowledge you need to know before joining this course
 - ensure to update .gitignore to remove auto generated files from your commits
 - always create a new branch on new piece of work
 - give clear commit message
+- request review from mentor
 
 ## How to submit your homework?
-- Fork the repo
+- Each lesson day, create new branch for your name's branch, and work on that branch 
 - Create your own project folder under 'exercise' folder, with your name as folder name
-- Each lesson day, create new branch and work on that branch 
-- Complete unit test before merging
+- Complete unit test for that day
+- request review from mentor
 
 ## Target of full course
 The outcome of this course is that each mentee is able to create a sample Weather App with UI and API calls
 
 ### UI
 ![Batch 10 - Flutter - Exercise](https://user-images.githubusercontent.com/110004234/183241778-70be6cee-8028-4a40-b1c7-f4c11a64472e.png)
+
+### API Key
+Share privately during Orientation
 
 ## Course syllabus
 #### Orientation - check prerequisites knowledge
