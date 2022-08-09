@@ -20,14 +20,12 @@ Some knowledge you need to know before joining this course
 - request review from mentor
 
 ## Target of full course
-The outcome of this course is that each mentee is able to create a sample Weather App with UI and API calls
+The outcome of this course is to complete at least 2 feature of HatSpace app
+- UI completed
+- business logic completed
+- at least 70% code coverage on Unit Test and Widget test
 
-### UI
-![Batch 10 - Flutter - Exercise](https://user-images.githubusercontent.com/110004234/183320414-2730e81b-23f7-4e68-a626-fd17489136f5.png)
-
-### API 
-- use https://openweathermap.org/forecast5
-- Keys will be shared privately during Orientation
+Demo app: https://hatspace.glideapp.io/
 
 ## Course syllabus
 #### Orientation - check prerequisites knowledge
@@ -60,6 +58,7 @@ The outcome of this course is that each mentee is able to create a sample Weathe
 - Basic UI
   - MaterialApp
   - Scaffold
+  - Drawer
   - AppBar
   - Container
   - Row
@@ -71,16 +70,11 @@ The outcome of this course is that each mentee is able to create a sample Weathe
 - Basic setting
   - Orientation
   - System UI mode
+- Unit test
+- Widget test
 
 #### State Management + Localisation + IDE plug-in 
 - BLoC
-- Provider
-
-#### API calls
-- dio
-- http
-- retrofit
-- Convert json data
 
 #### Database
 - Firebase Cloud Firestore
