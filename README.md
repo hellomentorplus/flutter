@@ -70,16 +70,11 @@ Demo app: https://hatspace.glideapp.io/
 - Basic setting
   - Orientation
   - System UI mode
+- Unit test
+- Widget test
 
 #### State Management + Localisation + IDE plug-in 
 - BLoC
-- Provider
-
-#### API calls
-- dio
-- http
-- retrofit
-- Convert json data
 
 #### Database
 - Firebase Cloud Firestore
