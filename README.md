@@ -34,11 +34,24 @@ Demo app: https://hatspace.glideapp.io/
 - Commit message should be clear
 - PR 
 
+#### Object Oriented Programming
+- what is OOP
+- theory of OOP
+
 #### Getting to know Dart - Play with https://dartpad.dev/
-- Some basic syntax
+- primitive data type in Dart
+- Functions and classes in Dart
+
+#### Dart Collection
 - List
 - Map
 - Set
+
+#### Asynchronous
+- Stream
+- Future
+
+#### Other Dart tricks
 - Lamda
 - mixin
 - extension
