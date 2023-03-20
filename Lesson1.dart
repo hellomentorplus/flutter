@@ -18,9 +18,14 @@ void main() {
     stdout.write("Please input a target number : ");
     target = int.tryParse(stdin.readLineSync() ?? "");
   } while (i != null);
-  stdout.writeln(twoSum(num2: nums, target: target));
-  stdout.writeln(nums);
-  stdout.writeln(target);
+  if (twoSum() != null) {
+    stdout.writeln(twoSum(num2: nums, target: target));
+  } else {
+    stdout.write("[]");
+  }
+
+  // stdout.writeln(nums);
+  // stdout.writeln(target);
 }
 
 twoSum({List<int> num2 = const [], int? target}) {
@@ -31,5 +36,5 @@ twoSum({List<int> num2 = const [], int? target}) {
       }
     }
   }
-  return {};
+  return [];
 }
