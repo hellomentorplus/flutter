@@ -17,3 +17,9 @@ Example:
 2, 9 => sum(2, 9) = 11
 
 Expected output: (0, 3), and (1, 2)
+
+Additional request: 
+- create a class named Pair, which holds 2 value to be returned
+- create a separate utility class to handle the logic for this answer
+- the function in utility class should be named 'findMinSumPair', which returns a list of Pair objects
+- after passing the list into that class, when calling 'findMinSumPair', then the final all pairs that are minimum sum value
