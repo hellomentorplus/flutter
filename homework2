@@ -1,0 +1,19 @@
+Lesson 2: 
+- function (with optional param, and named param)
+- class: constructor, final param, late final
+
+Homework:
+Given a list of integer, find a pair(s) of numbers that makes the minimum sum value
+
+Example: 
+- List: 0, 3,6,5,3,1,2,9
+=> Pairs available: 
+0, 3 => sum(0, 3) = 3
+3, 6 => sum(3, 6) = 9
+6, 5 => sum(6, 5) = 11
+5, 3 => sum(5, 3) = 8
+3, 1 => sum(3, 1) = 4
+1, 2 => sum(1, 2) = 3,
+2, 9 => sum(2, 9) = 11
+
+Expected output: (0, 3), and (1, 2)
